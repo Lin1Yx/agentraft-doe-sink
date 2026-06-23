@@ -1,0 +1,7 @@
+Source: GitHub Repo Lin1Yx/agentraft-doe-source, Issue #3
+Title: 支付偶发超时 DINT-ISSUEPAY-支付偶发超时
+
+Expected Fix Window: 2025-08-24 14:00 - 16:00 (China Time, Asia/Shanghai)
+Context: Intermittent payment timeout issue; planned fix deployment during this window.
+
+(Purpose: For CS team shift scheduling — augment staff coverage during the fix window.)
