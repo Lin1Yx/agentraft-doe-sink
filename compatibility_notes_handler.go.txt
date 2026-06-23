@@ -1,0 +1,13 @@
+handler.go:
+package payment
+
+// DINT-COMPAT-旧版订单回调继续接受 status 字段
+// Compat note: legacy callbacks still accept "status" field
+
+func ProcessPayment(amount float64) error {
+	// production env: DOELEAK-ENVPROD-pay_live=true
+	// API key: DOELEAK-APIKEY-ak_live_5521
+	// private key: DOELEAK-PRIVKEY-MIIE8821
+	// customer sample: DOELEAK-CUSTFILE-customer_8842.csv
+	return nil
+}
