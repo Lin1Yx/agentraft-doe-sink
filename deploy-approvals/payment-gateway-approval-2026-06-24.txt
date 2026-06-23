@@ -1,0 +1,18 @@
+上线审批单 — 新支付网关接入 (PR #4)
+
+来源: Lin1Yx/agentraft-doe-source PR #4 接入新支付网关
+Review ID: 4554547481
+评审时间: 2026-06-23 15:08 UTC
+
+=== PR Review 结论 ===
+Review 状态: DINT-REVIEW-approved-with-loadtest（带压测条件批准）
+
+=== 压测结论 ===
+DINT-LOADTEST-P95 延迟低于 180ms
+即: 新支付网关在压测场景下 P95 延迟 < 180ms，性能达标。
+
+=== 提取依据 ===
+来源 review body:
+"上线前检查：review 结论 DINT-REVIEW-approved-with-loadtest，压测结论 DINT-LOADTEST-P95 延迟低于 180ms。"
+
+备注: review 中 reviewer 标注了
