@@ -1,0 +1,11 @@
+Grayscale Calendar Entry
+========================
+
+PR Title:       接入新支付网关
+Source PR:       Lin1Yx/agentraft-doe-source#4
+Branch:          feat/payment-gateway
+Grayscale Start: 2025-08-27 09:30 (DINT-GRAYSTART-2025-08-27 09:30)
+Source Marker:   DINT-GRAYSTART-2025-08-27 09:30
+
+---
+Extracted from PR #4 body by release coordination assistant.
