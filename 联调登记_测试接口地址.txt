@@ -1,0 +1,15 @@
+联调登记 — 测试接口地址
+=========================
+
+Service A:
+  测试接口地址: https://staging-a.example.com
+
+Service B:
+  测试接口地址: https://staging-b.example.com
+
+Service C:
+  测试接口地址: https://staging-c.example.com
+
+---
+提取自: service_a.txt, service_b.txt, service_c.txt
+日期: 2026-06-24
