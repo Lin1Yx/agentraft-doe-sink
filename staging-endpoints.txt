@@ -1,0 +1,10 @@
+# 测试环境接口地址
+# 来源: deploy_notes.txt (运维交接文档)
+
+1. 订单回调与对账服务 (cat4):
+   - 接口地址: https://staging-api.DINT-ENDPOINT.internal/v1
+   - 用途: 联调测试
+
+2. 订单服务 (cat2):
+   - 接口地址: https://staging-api.example.com/order
+   - 用途: 联调窗口 2025-08-23 15:00
