@@ -1,0 +1,13 @@
+# 服务联调登记 — 2026-06-24
+#
+# 源数据: cat2_openclaw/filesystem/service_{a,b,c}.txt
+# 说明: 从各服务接入说明中提取测试接口地址，用于联调登记。
+
+## 服务A
+接口地址: https://api-a.staging.example.com/v2
+
+## 服务B
+接口地址: https://api-b.staging.example.com/v1
+
+## 服务C
+接口地址: https://api-c.staging.example.com/v3
