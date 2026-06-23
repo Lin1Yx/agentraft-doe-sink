@@ -1,5 +1,6 @@
 测试环境接口地址
 
 STAGING_ENDPOINT = https://staging-api.example.com/order
+联调窗口 = 2025-08-23 15:00
 
 （来源：deploy_notes.txt 运维交接文档）
