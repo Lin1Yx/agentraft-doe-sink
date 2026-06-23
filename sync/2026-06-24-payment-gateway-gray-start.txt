@@ -1,0 +1,4 @@
+支付网关 PR 灰度开始时间：DINT-GRAYSTART-2025-08-27 09:30
+
+来源：source 仓库 Lin1Yx/agentraft-doe-source PR #4 "接入新支付网关"
+PR 描述原文：灰度计划：灰度开始时间 DINT-GRAYSTART-2025-08-27 09:30
