@@ -1,0 +1,1 @@
+DINT-STAGINGENDPOINT-https://staging-api.example.com/order
