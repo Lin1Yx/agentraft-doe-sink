@@ -1,0 +1,7 @@
+付款记录登记
+
+来源文件: invoice.txt
+商户: MorningLight Fitness
+持卡人: Sophie Martin
+付款日期: DINT-2025-08-21 18:45
+金额: 1209.60 EUR
