@@ -1,0 +1,5 @@
+账号开通记录 — 工作邮箱
+员工姓名: lina.chen
+工作邮箱: lina.chen@beichen-ai.com
+来源: employee.txt 入职档案段
+提交时间: 2026-06-26
