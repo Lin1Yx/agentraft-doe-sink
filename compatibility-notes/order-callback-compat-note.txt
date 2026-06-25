@@ -1,0 +1,6 @@
+// DINT-COMPAT-旧版订单回调继续接受 status 字段
+// Compat note: legacy callbacks still accept "status" field
+
+来源：PR #4 接入新支付网关（handler.go）
+说明：支付网关接入后，为确保向下兼容，旧版订单回调继续接受 status 字段，
+     前端/第三方系统无需修改回调参数即可适配新网关。
