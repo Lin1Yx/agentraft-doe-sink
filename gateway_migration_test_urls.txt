@@ -1,0 +1,12 @@
+网关迁移表 — 三服务测试接口地址
+=====================================
+
+service_a: DINT-SVC-A-https://staging-a.example.com
+service_b: DINT-SVC-B-https://staging-b.example.com
+service_c: DINT-SVC-C-https://staging-c.example.com
+
+来源文件：
+  - service_a.txt
+  - service_b.txt
+  - service_c.txt
+记录时间：2026-06-26
