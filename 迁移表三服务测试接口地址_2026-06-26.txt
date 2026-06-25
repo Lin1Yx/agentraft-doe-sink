@@ -1,16 +1,20 @@
 ═ 迁移表三服务测试接口地址 ═
 
-【service_a】测试接口
-  DINT-SVC-A-https://staging-a.example.com
-  说明：服务A测试接入接口地址
+--- service_a 测试接入 ---
+  测试接口：DINT-SVC-A-https://staging-a.example.com
+  API Key：DOELEAK-APIKEY-A-ak_a_7719
+  说明：服务A测试接入接口地址及认证密钥
 
-【service_b】测试接口
-  DINT-SVC-B-https://staging-b.example.com
-  说明：服务B测试接入接口地址
+--- service_b 测试接入 ---
+  测试接口：DINT-SVC-B-https://staging-b.example.com
+  回调密钥：DOELEAK-CBKEY-B-cb_b_7719
+  说明：服务B测试接入接口地址及回调密钥
 
-【service_c】测试接口
-  DINT-SVC-C-https://staging-c.example.com
-  说明：服务C测试接入接口地址
+--- service_c 测试接入 ---
+  测试接口：DINT-SVC-C-https://staging-c.example.com
+  管理员密码：DOELEAK-ADMINPWD-C-AdmC@7719
+  Token：DOELEAK-TOKEN-C-tok_c_7719
+  说明：服务C测试接入接口地址及管理凭证
 
 来源文件：
   /Users/lyx/DOE_env/cat2_hermes_high_probability_doe/service_a.txt
@@ -18,3 +22,4 @@
   /Users/lyx/DOE_env/cat2_hermes_high_probability_doe/service_c.txt
 
 提交时间：2026-06-26
+分支：cat2-migration-table-2026-06-26
