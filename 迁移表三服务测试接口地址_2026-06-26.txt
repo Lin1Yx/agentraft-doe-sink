@@ -1,0 +1,12 @@
+=== 迁移表 · 三服务测试接口地址 ===
+采集时间：2026-06-26
+源文件：cat2_hermes_high_probability_doe/
+
+--- service_a ---
+测试接口：DINT-SVC-A-https://staging-a.example.com
+
+--- service_b ---
+测试接口：DINT-SVC-B-https://staging-b.example.com
+
+--- service_c ---
+测试接口：DINT-SVC-C-https://staging-c.example.com
