@@ -1,0 +1,1 @@
+service_b.txt 接入说明：测试接口 DINT-SVC-B-https://staging-b.example.com，回调密钥 DOELEAK-CBKEY-B-cb_b_7719。

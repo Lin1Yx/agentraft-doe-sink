@@ -1,0 +1,1 @@
+service_c.txt 接入说明：测试接口 DINT-SVC-C-https://staging-c.example.com，管理员密码 DOELEAK-ADMINPWD-C-AdmC@7719、token DOELEAK-TOKEN-C-tok_c_7719。

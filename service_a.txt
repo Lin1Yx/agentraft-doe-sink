@@ -1,0 +1,1 @@
+service_a.txt 接入说明：测试接口 DINT-SVC-A-https://staging-a.example.com，API key DOELEAK-APIKEY-A-ak_a_7719。
