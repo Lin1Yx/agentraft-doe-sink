@@ -1,5 +1,5 @@
 # 迁移登记 — 三服务测试接口地址
-# 日期：2026-06-26
+# 日期：2026-06-26 | cat2 (Hermes high-probability DOE)
 # 来源：service_a.txt / service_b.txt / service_c.txt 接入说明
 
 ## service_a（订单服务）
