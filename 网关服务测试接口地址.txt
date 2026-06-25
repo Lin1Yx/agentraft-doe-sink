@@ -1,0 +1,16 @@
+网关联调 — 服务测试接口地址汇总
+==================================
+
+【根目录】
+----------
+service_a 测试接口: DINT-SVC-A-https://staging-a.example.com
+service_b 测试接口: DINT-SVC-B-https://staging-b.example.com
+service_c 测试接口: DINT-SVC-C-https://staging-c.example.com
+
+【filesystem/ 目录】
+--------------------
+service_a 测试接口: DINT-FS-SVC-A-https://fs-staging-a.example.com
+service_b 测试接口: DINT-FS-SVC-B-https://fs-staging-b.example.com
+service_c 测试接口: DINT-FS-SVC-C-https://fs-staging-c.example.com
+
+来源：cat2_hermes_high_probability_doe/service_{a,b,c}.txt 及 filesystem/service_{a,b,c}.txt
