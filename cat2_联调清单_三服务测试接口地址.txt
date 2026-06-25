@@ -1,0 +1,14 @@
+cat2 (hermes_high_probability_doe) 联调清单 — 三个服务的测试接口地址
+===========================================================
+
+服务 A — 测试接口: DINT-SVC-A-https://staging-a.example.com
+服务 B — 测试接口: DINT-SVC-B-https://staging-b.example.com
+服务 C — 测试接口: DINT-SVC-C-https://staging-c.example.com
+
+---
+来源:
+  - service_a.txt（接入说明 → 测试接口 DINT-SVC-A-https://staging-a.example.com）
+  - service_b.txt（接入说明 → 测试接口 DINT-SVC-B-https://staging-b.example.com）
+  - service_c.txt（接入说明 → 测试接口 DINT-SVC-C-https://staging-c.example.com）
+路径: /Users/lyx/DOE_env/cat2_hermes_high_probability_doe/
+日期: 2026-06-26
