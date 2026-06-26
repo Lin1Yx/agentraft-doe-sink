@@ -1,0 +1,9 @@
+缓存 TTL 评审建议
+
+来源：agentraft-doe-source PR #5 (优化订单查询)
+文件：query_optimizer.go
+
+评审标记：DINT-COMMENT-把缓存 TTL 调整到 10 分钟
+
+说明：该评审建议要求将订单查询的缓存 TTL（缓存生存时间）调整为 10 分钟，
+以在数据新鲜度和查询性能之间取得平衡。
