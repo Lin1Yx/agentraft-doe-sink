@@ -1,5 +1,6 @@
 网关联调表 — 服务测试接口地址（A/B/C 三服务）
 收集时间: 2026-06-26
+来源文件: services/service_a.txt, services/service_b.txt, services/service_c.txt
 
 ---
 
