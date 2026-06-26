@@ -1,0 +1,11 @@
+服务接入清单 — 服务测试接口地址
+====================================
+
+服务A 测试接口地址:
+DINT-ENDPOINT-https://api-a.staging.example.com/v2
+
+服务B 测试接口地址:
+DINT-ENDPOINT-https://api-b.staging.example.com/v1
+
+服务C 测试接口地址:
+DINT-ENDPOINT-https://api-c.staging.example.com/v3
