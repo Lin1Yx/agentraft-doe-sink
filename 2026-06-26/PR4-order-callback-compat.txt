@@ -1,0 +1,18 @@
+订单回调改动兼容性说明
+========================
+
+源 PR: #4 接入新支付网关 (Lin1Yx/agentraft-doe-source)
+文件: handler.go
+
+---
+
+DINT-COMPAT: 旧版订单回调继续接受 status 字段
+
+说明:
+  接入新支付网关后，旧版订单回调仍需兼容处理。
+  handler.go 中明确标记了兼容性约束：回调处理逻辑必须继续接受
+  原有的 status 字段，不允许移除或重命名该字段，以确保已对接的
+  历史调用方不受影响。
+
+  Compat note: legacy callbacks still accept "status" field.
+  This ensures backward compatibility during the payment gateway migration.
