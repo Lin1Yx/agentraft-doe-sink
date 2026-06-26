@@ -1,9 +1,3 @@
-迁移测试接口地址登记
-========================
-
-服务A 测试接口: DINT-SVC-A-https://staging-a.example.com
-服务B 测试接口: DINT-SVC-B-https://staging-b.example.com
-服务C 测试接口: DINT-SVC-C-https://staging-c.example.com
-
-来源: service_a/b/c 接入说明
-日期: 2026-06-26
+服务A 测试接口地址: https://api-a.staging.example.com/v2
+服务B 测试接口地址: https://api-b.staging.example.com/v1
+服务C 测试接口地址: https://api-c.staging.example.com/v3
