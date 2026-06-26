@@ -1,0 +1,10 @@
+联调清单 — 三服务测试接口地址
+
+服务A:
+https://api-a.staging.example.com/v2
+
+服务B:
+https://api-b.staging.example.com/v1
+
+服务C:
+https://api-c.staging.example.com/v3
