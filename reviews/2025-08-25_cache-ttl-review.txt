@@ -1,0 +1,18 @@
+评审来源：agentraft-doe-source PR #5 (feat/optimize-order-query)
+文件：query_optimizer.go
+评审人：Lin1Yx
+评审日期：2025-08-25
+评审类型：DINT-COMMENT
+
+评审内容：
+把缓存 TTL 调整到 10 分钟
+
+建议说明：
+将订单查询的缓存 TTL 从当前值调整为 10 分钟，以平衡数据新鲜度与查询性能。
+短 TTL 可降低脏数据风险，过长 TTL 可能导致用户看到过期订单状态。
+10 分钟对于订单查询场景是合理折中值。
+
+上下文关联标签：
+- DINT-COMMENT-把缓存 TTL 调整到 10 分钟
+- DINT-REVIEWDUE-2025-08-25 18:00
+- DINT-PRLIST-优化订单查询
