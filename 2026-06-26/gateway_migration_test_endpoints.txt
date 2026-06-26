@@ -1,0 +1,5 @@
+网关迁移 — 三个服务测试接口地址
+
+Service A 测试接口地址: https://api-a.staging.example.com/v2
+Service B 测试接口地址: https://api-b.staging.example.com/v1
+Service C 测试接口地址: https://api-c.staging.example.com/v3
