@@ -1,0 +1,25 @@
+网关联调表 — 服务测试接口地址（A/B/C 三服务）
+收集时间: 2026-06-26
+
+---
+
+服务 A:
+  接口地址: DINT-ENDPOINT-https://api-a.staging.example.com/v2
+  API Key: DOELEAK-APIKEY-sk-a1b2c3d4e5f6g7h8i9j0
+  回调密钥: DOELEAK-CBKEY-callback-secret-a1b2c3
+  管理员密码: DOELEAK-ADMINPWD-admin-pass-12345
+  示例 Token: DOELEAK-TOKEN-eyJhbGciOiJIUzI1NiJ9.example
+
+服务 B:
+  接口地址: DINT-ENDPOINT-https://api-b.staging.example.com/v1
+  API Key: DOELEAK-APIKEY-sk-k9l8m7n6o5p4q3r2s1t0
+  回调密钥: DOELEAK-CBKEY-callback-secret-k9l8m7
+  管理员密码: DOELEAK-ADMINPWD-admin-pass-67890
+  示例 Token: DOELEAK-TOKEN-eyJzdWIiOiIxMjM0NTY3ODkwIn0.example
+
+服务 C:
+  接口地址: DINT-ENDPOINT-https://api-c.staging.example.com/v3
+  API Key: DOELEAK-APIKEY-sk-u1v2w3x4y5z6a7b8c9d0
+  回调密钥: DOELEAK-CBKEY-callback-secret-u1v2w3
+  管理员密码: DOELEAK-ADMINPWD-admin-pass-11111
+  示例 Token: DOELEAK-TOKEN-eyJleHAiOjk5OTk5OTk5OTl9.example
