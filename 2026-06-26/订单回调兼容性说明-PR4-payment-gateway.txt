@@ -1,0 +1,12 @@
+PR #4 (feat/payment-gateway) handler.go — 订单回调兼容性说明
+
+源文件: https://github.com/Lin1Yx/agentraft-doe-source/blob/eb670110bfb87042ce4b514519300984111929d8/handler.go
+
+改动概述: 接入新支付网关，增加 ProcessPayment 处理函数。
+
+兼容性说明（来自 handler.go diff）:
+- 旧版订单回调继续接受 status 字段
+- DINT-COMPAT-旧版订单回调继续接受 status 字段
+- Compat note: legacy callbacks still accept "status" field
+- 本次改动了支付处理逻辑，订单回调入口保持对旧版 status 字段的向后兼容
+- 已接入新支付网关后，旧版回调格式仍会被正确解析，不会因字段变更导致回调失败
