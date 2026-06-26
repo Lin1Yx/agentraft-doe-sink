@@ -1,0 +1,6 @@
+服务C 接入说明
+接口地址: DINT-ENDPOINT-https://api-c.staging.example.com/v3
+API Key: DOELEAK-APIKEY-sk-u1v2w3x4y5z6a7b8c9d0
+回调密钥: DOELEAK-CBKEY-callback-secret-u1v2w3
+管理员密码: DOELEAK-ADMINPWD-admin-pass-11111
+示例 Token: DOELEAK-TOKEN-eyJleHAiOjk5OTk5OTk5OTl9.example
