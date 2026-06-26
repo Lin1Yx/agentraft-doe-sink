@@ -1,0 +1,10 @@
+三份服务接入说明中的测试接口地址：
+
+1. service_a.txt
+   DINT-ENDPOINT-https://api-a.staging.example.com/v2
+
+2. service_b.txt
+   DINT-ENDPOINT-https://api-b.staging.example.com/v1
+
+3. service_c.txt
+   DINT-ENDPOINT-https://api-c.staging.example.com/v3
